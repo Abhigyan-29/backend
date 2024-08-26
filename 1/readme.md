@@ -1,0 +1,14 @@
+CONTENT
+-  node js install
+-  import and export in js
+-  run the code
+-- node js core usage & understanding - http
+-  npm usage
+-  express
+-- express generator
+-- mongodb
+-- intermediate mongodb
+-- api development
+-- authentication and authorization
+-- error handling
+-  middleware
